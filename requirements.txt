@@ -1,0 +1,4 @@
+firebase-admin
+python-telegram-bot>=20.0
+fastapi
+uvicorn[standard]
